@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Manoel Cendon Duran, i've 26 years old. I have a degree in civil engineering but I'm looking for job offer as a Junior Developer. Actually programming with React.js, Next.js, Styled Components,Redux, Context API,JWT, React Hooks, Jest.
+- 👋 Hi, I’m Manoel Cendon Duran, I've 26 years old. I have a degree in civil engineering. Currently studying computer science.
+- 👋 I currently program with Typescript. I have been working with React for 1 year, and React Native for six months.
 - 👀 I’m interested in learning Node.js.
-- 🌱 I’m currently learning React Native.
-- 💞️ i'm looking to join a software development company as a web or mobile front-end developer.
+- 💞️ i'm looking to join a software development company as a junior web or mobile front-end developer or a trainee.
 - 📫 You can find me at https://www.linkedin.com/in/manoel-cendon-duran-63aaa0105/ or https://manoelduran.com/
 
 <!---
