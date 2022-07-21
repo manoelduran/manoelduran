@@ -2,7 +2,7 @@
 - 👋 I currently program with Typescript. I have been working with React for 1.5 years, and React Native for 9 months.
 - 👀 I’m learning Node.js.
 - 💞️ I'm currently working in Flimed.
-- 📫 You can find me at https://www.linkedin.com/in/manoel-cendon-duran-63aaa0105/ or https://manoelduran.com/
+- 📫 You can find me at https://www.linkedin.com/in/manoelduran/ or https://manoelduran.com/
 
 <!---
 manoelduran/manoelduran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
