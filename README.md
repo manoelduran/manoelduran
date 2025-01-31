@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software Engineer - Fullstack Developer;<br>🌱 Stack: Node.js, React.js, React Native, Express.js, Next.js, Expo, Nest.js, Docker, AWS; Java, Springboot, Quarkus, Python, FastAPI;<br>📫 https://manoelduran.com/
+🔭 Software Engineer - Fullstack Developer;<br>🌱 Stack: Node.js, React.js, React Native, Express.js, Next.js, Expo, Nest.js, Docker, AWS; Java, Springboot, Quarkus, Python;<br>📫 https://manoelduran.com/
 
 
 ## 🌐 Socials:
